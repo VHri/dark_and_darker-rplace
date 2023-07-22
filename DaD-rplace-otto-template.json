@@ -1,0 +1,15 @@
+{
+  "contact": ".gg/darkanddarker",
+  "templates": [
+    {
+      "name": "darkanddarker-otto",
+      "sources": [
+        "https://github.com/VHri/dark_and_darker-rplace/blob/a588da7c129fa750f013c848d7cb9f425c8b3ee7/rplace-OTTO.png"
+      ],
+      "x": 797,
+      "y": 963
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
