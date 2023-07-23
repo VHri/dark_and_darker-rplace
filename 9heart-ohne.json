@@ -1,0 +1,15 @@
+{
+  "contact": ".gg/darkanddarker",
+  "templates": [
+    {
+      "name": "darkanddarker-otto",
+      "sources": [
+        "https://raw.githubusercontent.com/VHri/dark_and_darker-rplace/main/9heart%20ohne.png"
+      ],
+      "x": 767,
+      "y": 1,536
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
